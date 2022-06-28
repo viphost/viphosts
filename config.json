@@ -1,0 +1,13 @@
+{
+	"bot": {
+		"id": "991288871579041802",
+		"prefix": "+",
+		"secret": "Z1GJHTFcnQJPcfvdas4TIK_uPtmmBV3M",
+		"status": "idle",
+		"url": "https://vip-host.sysv1.repl.co",
+		"production": true
+	},
+	"app": {
+		"port": 6969
+	}
+}
